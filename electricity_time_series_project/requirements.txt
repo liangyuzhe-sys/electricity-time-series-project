@@ -1,8 +1,0 @@
-numpy>=1.23
-pandas>=1.5
-scipy>=1.10
-matplotlib>=3.6
-seaborn>=0.12
-statsmodels>=0.14
-arch>=6.2
-pyarrow>=12.0
